@@ -5,7 +5,7 @@
 <h1 align='center'>
   Burgeria E-Commerce
 </h1>
-*Burgeria E-Commerce*
+
 <div align="center">
   Site realizado com <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
 </div>
