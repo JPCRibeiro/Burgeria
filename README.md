@@ -14,3 +14,6 @@
   Utilizando TypeScript, o e-commerce foi feito com a criação de objetos para os modelos dos hambúrgueres e pedidos. As diferentes páginas foram feitas com o router do Angular, com mudanças de IDs das páginas feitas dinamicamente.
 </div>
 
+<div align="center" style="margin-top: 50px">
+  Acesse o <a align='center' href="https://jpcribeiro.github.io/Burgeria/" target="_blank">Projeto</a>
+</div>
