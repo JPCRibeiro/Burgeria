@@ -11,5 +11,7 @@
 </div>
 
 <div align="center">
-  Utilizando TypeScript, o e-commerce foi feito com a criação de objetos para os modelos dos hambúrgueres e pedidos. As diferentes páginas foram feitas com o router do Angular, com mudanças de IDs das páginas feitas dinamicamente. - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+  Utilizando TypeScript, o e-commerce foi feito com a criação de objetos para os modelos dos hambúrgueres e pedidos. As diferentes páginas foram feitas com o router do Angular, com mudanças de IDs das páginas feitas dinamicamente.
 </div>
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
