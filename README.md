@@ -3,7 +3,7 @@
 </div>
 
 <h1 align='center'>
-  Burgeria E-Commerce
+  *Burgeria E-Commerce*
 </h1>
 
 <div align="center">
