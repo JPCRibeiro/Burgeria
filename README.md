@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-  Site realizado com <img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  Site realizado com ![#f03c15](<img align="center" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">)
 </div>
 
 <div align="center">
